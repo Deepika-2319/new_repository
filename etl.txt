@@ -1,4 +1,4 @@
-ETL stands for Extract, Transform, Load. It is a process used in data integration and data warehousing to gather data from various sources, 
+ ETL stands for Extract, Transform, Load. It is a process used in data integration and data warehousing to gather data from various sources, 
 transform it into a consistent and meaningful format, and load it into a target destination, typically a database or data warehouse.
  Here's a short explanation of each step:
 
