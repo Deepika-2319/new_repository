@@ -1,0 +1,156 @@
+1. What is your plan after joining this data engineer role?
+A: it works by first understanding the data infrastructure setup of the company, and you would also talk about how it can be
+   made better or further improvised in the coming days with furtherr iterations.
+
+Data engineers are the fastest growing tech occupation in 2019.
+
+Collect and analyze the data from various resources and formats is called data engineering.
+
+Data engineers are responsible for designing, developing and maintaining the data platform which includes:
+           1. Data Infrastructure
+           2. Data Applications
+           3. Data Warehouse
+           4. Data Pipelines
+
+
+2. What is data engineering?
+A: Data engineering is the process of converting the raw entity of data into useful information.
+
+
+3. What is data modeling?
+A: It is the process of simplifying complex software designs by breaking them down into simple diagrams that are easy to understand
+
+
+4. What are the features of Hadoop?       
+A: 1. Free and simple to use.
+   2. Highly scalable: a large amount of data is distributed across several devices in a cluster and processed in a parallel
+   3. Data is replicated across multiple DataNodes: data availability even if one of your system fails.
+   4. Extremely versaatile:  hadoop can be performed with structured, unstructured and semi-structured data
+   5. Faster Data processing
+
+5. what are four v's in big data?
+A: Volume, variety, velocity and veracity
+
+6. Briefly describe Star Schema?
+A: A star schema in a data warehouse can have one fact table and a number of associated dimension tables in the centre,
+   which is mainly used for big data analysis.
+
+
+7. Briefly about snowflake schema?
+A: It is a logical arangement of tables in a multidimensional database that corresponds to the shape of snowflake.
+
+8. What is meant by COSHH?
+A: It provides scheduling at both cluster and apllication levels to have a direct positive impact on job completion time.
+
+9. Name the XML configuration files present in Hadoop?
+A: Core-site, Mapred-site, Yarn-site, HDFS-site
+
+10. What is the difference between Spark and Mapreduce?
+A: Spark processes and stores data in memory for subsequent steps, whereas mapreduce processes data on disc.
+   Spark is more better and faster than mapreduce
+what spark is used for?
+A: Apache Spark is an open-source, distributed processing system used for big data workloads. It utilizes in-memory caching, and optimized query execution for fast analytic queries against data of any size.  
+
+what do you mean vy mapreduce?
+A: Mapreduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in 
+  hadoop cluster. As the processing component Mapreduce is the heart of Apache Hadoop.
+
+what is the difference between spark and hadoop?
+A: Hadoop is designed to handle batch processing efficiently. Spark is designed to handle real-time data efficiently.
+   Hadoop is a high latency computing and can process data interactively.
+
+11. What is the Replication factor?
+A: The replication factor is the number of times each Data Block is replicated by the Hadoop framework.
+
+12. How is data security ensured in Hadoop?
+A: Secure the authentic channel, Use received stamp to request a service ticket, Authenticate the connection
+
+13. In your opinion, what does a Data Engineer majorly do?
+A:  1. Handling data inflow and pipeline processing.
+    2. Maintaining data staging areas.
+    3. Performing data cleaning.
+    4. Ad hoc query construction operations.
+
+14. What is the use of Hive in the Hadoop ecosystem?
+A:  Hive is used to provide a user interface for managing all of Hadoop's stored data.
+
+______________________________________________________________________
+1. Tell me about yourself?
+A: Thank you for giving me the opportunity to be interviewed for this data engineering position with your compnay today.
+
+
+
+Why do you want to be a data engineer?
+
+The field of data engineering is constantly evolving, with new tools, technologies
+and frameworks emerging regularly.
+Data engineers are often motivated by the opportunity to work with cutting-edge
+technologies, learning skills and stay updated with latest trends in data management 
+and processing  
+ 
+Passion for data: Data engineers often hav ekeen interest in working with data,
+understanding its patterns and structures, and deriving valuable insights from it.
+
+
+Probelm solving and analytical mindset:
+Data engineering requires a logical and analytical approach to problem-solving
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
